@@ -1,5 +1,6 @@
 # ziyotektest1
 
-test first commit
+test confict commit
+more updates
 
 .gitignroe will ignore files in the "passwords" folder
